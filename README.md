@@ -3,8 +3,10 @@ Osint tool for Instagram
 
 #Installation 
 
-```1. pkg install python 
+```
+1. pkg install python 
 ```
 
-```2. pip install instaloader
+```
+2. pip install instaloader
 ```
