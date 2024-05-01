@@ -1,7 +1,7 @@
 # OsintIG
 Osint tool for Instagram 
 
-#Installation 
+# Installation 
 
 ```
 1. pkg install python 
