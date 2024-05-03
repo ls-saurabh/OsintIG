@@ -1,4 +1,4 @@
-# OsintIG
+c# OsintIG
 Osint tool for Instagram 
 
 # Installation 
@@ -18,4 +18,14 @@ Osint tool for Instagram
 
 ```
 4. git clone https://github.com/ls-saurabh/OsintIG.git
+```
+
+# Usage
+
+```
+cd OsintIG
+```
+
+```
+python osintIG.py
 ```
