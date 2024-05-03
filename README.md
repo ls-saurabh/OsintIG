@@ -1,4 +1,4 @@
-c# OsintIG
+# OsintIG
 Osint tool for Instagram 
 
 # Installation 
@@ -27,5 +27,5 @@ cd OsintIG
 ```
 
 ```
-python osintIG.py
+python OsintIG.py
 ```
